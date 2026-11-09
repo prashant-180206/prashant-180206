@@ -109,9 +109,8 @@ A cross-platform personal journaling application with AI-assisted conversations 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-180206&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-180206&layout=compact&theme=transparent&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=prashant-180206&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-180206&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
 ---
 
